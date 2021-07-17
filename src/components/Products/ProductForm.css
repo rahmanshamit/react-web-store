@@ -1,0 +1,17 @@
+.form {
+    text-align: center;
+  }
+
+button {
+    padding: 6px;
+    margin-top: 10px;
+    color: #fff;
+    background-color: #684471;
+    border-color: #44194f;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #44194f;
+    border-color: #44194f;
+}
